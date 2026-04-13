@@ -1,5 +1,7 @@
 # Rate Proxy — Proxy Interno com Rate Limiting
 
+url repo -> https://github.com/miguelpaullo/rate-proxy
+
 Serviço proxy resiliente desenvolvido em Java com Spring Boot para consumir a API
 `score.hsborges.dev` respeitando o limite de 1 requisição por segundo.
 
